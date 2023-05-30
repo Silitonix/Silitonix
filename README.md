@@ -5,5 +5,6 @@
 </div>
 
 #### The languages that I am skilled in : 
-- JavaScript
-- C/C++
+- JavaScript / TypeScript
+- C#
+- PHP

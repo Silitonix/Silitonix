@@ -28,3 +28,5 @@
 <span title="My best friend is Ubuntu"><img width="16" src="https://github.com/catppuccin/vscode-icons/raw/main/icons/bat.svg"> Linux<span>
   </p>
 </div>
+
+![](https://komarev.com/ghpvc/?username=silitonix)

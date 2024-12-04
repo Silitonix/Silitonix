@@ -7,7 +7,7 @@
 As a software engineer, I am driven by a passion for harnessing technology to make a positive impact on people's lives. With a focus on innovation and problem-solving, I strive to create solutions that simplify everyday tasks and improve overall quality of life.
 
 ## 🔭 Current Projects
-- [*PAPIS*](https://github.com/Silitonix/PAPIS) Easy to use api system for php
+- [*PAPISM*](https://github.com/Silitonix/PAPIS) Easy to use api system for php
 
 ## 🌱 Currently Developing
 - **Computer software enginearing**: Currently pursuing my Bachelor's degree in Computer Science at Amir Kabir Technical University.
